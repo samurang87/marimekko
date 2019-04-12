@@ -1,4 +1,4 @@
-###Readme
+### Readme
 
 This is a script to make Marimekko charts based on two categories and two measurements.
 The width of the columns reflect the first measurement of each first-level category in relative terms, and the height of each box the same measurement of the second-level category. 
